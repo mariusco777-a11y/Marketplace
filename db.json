@@ -1,0 +1,76 @@
+{
+	"users":[
+		{
+			"id":1,
+			"name":"Ana",
+			"surname":"Mustafenco",
+			"photo_url":"https://png.pngtree.com/png-vector/20220520/ourmid/pngtree-woman-icon-in-flat-style-consultant-woman-employee-vector-png-image_36604856.jpg",
+			"balance":1500
+		},
+		{
+			"id":2,
+			"name":"Andrei",
+			"surname":"Gritco",
+			"photo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOuxrvcNMfGLh73uKP1QqYpKoCB0JLXiBMvA&s",
+			"balance":2500
+		},
+		{
+			"id":3,
+			"name":"Alex",
+			"surname":"Popa",
+			"photo_url":"https://img.icons8.com/3d-fluency/1200/person-male.jpg",
+			"balance":1800
+		}
+	],
+	"products":[
+		{
+			"id":1,
+			"name":"Toyota Supra mk4",
+			"description":"A Japanese legend with a 2JZ engine, famous for its huge power and iconic design.",
+			"price":70000,
+			"author_id":1,
+			"photo_url":"https://cdn.motor1.com/images/mgl/PKZQL/s3/1997-toyota-supra-sold-for-176-000-at-auction.jpg"
+		},
+		{
+			"id":2,
+			"name":"Nissan GT-R R34",
+			"description":"A dream car with advanced tech and explosive performance, symbol of JDM culture.",
+			"price":120000,
+			"author_id":1,
+			"photo_url":"https://cdn.motor1.com/images/mgl/P3nO74/s1/2000-nissan-skyline-r34-gt-r-by-kaizo-industries-driven-by-paul-walker-in-fast-and-furious-bonham-s-auction.jpg"
+		},
+		{
+			"id":3,
+			"name":"Mazda RX-7",
+			"description":"A lightweight, sleek coupe with a rotary Wankel engine and exceptional handling.",
+			"price":50000,
+			"author_id":1,
+			"photo_url":"https://www.automoli.com/common/vehicles/_assets/img/gallery/f92/mazda-rx-7-iv.jpg"
+		},
+		{
+			"id":4,
+			"name":"Mitsubishi Lancer Evolution IV",
+			"description":"A turbocharged rocket with all-wheel drive, built to dominate rallies.",
+			"price":50000,
+			"author_id":1,
+			"photo_url":"https://www.thedrive.com/wp-content/uploads/2024/11/1996-Lancer-Evo-IV-26.jpg?strip=all&quality=85"
+		},
+		{
+			"id":5,
+			"name":"Mitsubishi Eclipse",
+			"description":"A ’90s sports car with an aggressive look and a tuning spirit.",
+			"price":15000,
+			"author_id":1,
+			"photo_url":"https://thegarage.com.br/wp-content/uploads/2025/04/1995-Mitsubishi-Eclipse-GS-T-a-venda-the-garage-29.jpg"
+		},
+		{
+			"id":6,
+			"name":"Nissan 180Sx",
+			"description":"A drifting classic, lightweight and perfectly balanced for total control in corners.",
+			"price":30000,
+			"author_id":1,
+			"photo_url":"https://lowdaily.ru/wp-content/uploads/2023/01/Nissan-180sx-Cover.jpg"
+		},
+		
+	]
+}
