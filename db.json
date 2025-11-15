@@ -36,7 +36,7 @@
 			"name":"Nissan GT-R R34",
 			"description":"A dream car with advanced tech and explosive performance, symbol of JDM culture.",
 			"price":120000,
-			"author_id":1,
+			"author_id":2,
 			"photo_url":"https://cdn.motor1.com/images/mgl/P3nO74/s1/2000-nissan-skyline-r34-gt-r-by-kaizo-industries-driven-by-paul-walker-in-fast-and-furious-bonham-s-auction.jpg"
 		},
 		{
@@ -52,7 +52,7 @@
 			"name":"Mitsubishi Lancer Evolution IV",
 			"description":"A turbocharged rocket with all-wheel drive, built to dominate rallies.",
 			"price":50000,
-			"author_id":1,
+			"author_id":3,
 			"photo_url":"https://www.thedrive.com/wp-content/uploads/2024/11/1996-Lancer-Evo-IV-26.jpg?strip=all&quality=85"
 		},
 		{
@@ -68,7 +68,7 @@
 			"name":"Nissan 180Sx",
 			"description":"A drifting classic, lightweight and perfectly balanced for total control in corners.",
 			"price":30000,
-			"author_id":1,
+			"author_id":2,
 			"photo_url":"https://lowdaily.ru/wp-content/uploads/2023/01/Nissan-180sx-Cover.jpg"
 		}
 		
